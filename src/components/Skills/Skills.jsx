@@ -24,9 +24,9 @@ const Skills = () => {
 
     {nombre:"Aprendizaje Continuo", porcentaje:"100%",claseColor:"aprendizaje"},
 
-    {nombre:"Comunicacion Efectiva", porcentaje:"100%", claseColor:"comunicacion"},
+    {nombre:"Comunicacion Efectiva", porcentaje:"90%", claseColor:"comunicacion"},
 
-    {nombre:"Autogestion", porcentaje:"100%", claseColor:"autogestion"}
+    {nombre:"Autogestion", porcentaje:"90%", claseColor:"autogestion"}
     ]
 
     return(

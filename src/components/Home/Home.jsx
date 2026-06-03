@@ -6,7 +6,9 @@ const Home = () => {
             <img src="img/perfil.jpg" alt="Foto de perfil de Tomas Gallardo"/>
         </div>
     <h1>SOY TOMAS GALLARDO</h1>
-        <h2>Desarrollador Frontend</h2>
+        <h2>Desarrollador Frontend · React & JavaScript
+            Construyo interfaces modernas y escalables 
+            orientadas a la experiencia del usuario.</h2>
             <div className="redes">
                 <a href="https://www.instagram.com/tomas_diego01" target="_blank" rel="noreferrer">
                 <i className="fa-brands fa-instagram"></i>

@@ -26,6 +26,15 @@ const About = () => {
                     valor, enfrentar nuevos desafíos técnicos y continuar creciendo 
                     profesionalmente.
                 </p>
+                <p> Soy una persona proactiva, con capacidad 
+                    de adaptación y ganas de seguir creciendo 
+                    en un equipo que me desafíe.</p>
+                <p>
+                    Si deseas conocer más sobre mi experiencia o discutir posibles 
+                    colaboraciones, no dudes en contactarme a través de mis redes 
+                    sociales o descargar mi CV.
+                </p>
+
             </div>
         </section>
     );
